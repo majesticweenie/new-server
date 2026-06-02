@@ -33,7 +33,7 @@ def get_summary():
         {"Status": "200"}
     ])
 
-# Make an if statement and show "400" if status does not work. maybe for the @app.route section. 
+# Make an if statement and show "400" if status does not work. maybe for the @app.route section
 
 
 
